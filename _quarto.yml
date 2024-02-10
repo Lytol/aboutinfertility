@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+  google-analytics: "G-WQXVTBHLMM"
 
 format:
   html:
